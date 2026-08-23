@@ -2,7 +2,7 @@
 
 Website jasa pembuatan website profesional untuk UMKM & bisnis Indonesia. Single-page statis (HTML + CSS + JS) dengan dua tema yang bisa diubah lewat tombol mengambang.
 
-Kunjungi site livenya : https://bender-web.netlify.app
+Kunjungi site livenya : https://gorgastudio.netlify.app
 
 ## ✨ Fitur
 
